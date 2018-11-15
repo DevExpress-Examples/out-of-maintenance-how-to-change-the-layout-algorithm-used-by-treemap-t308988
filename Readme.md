@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TreeMapLayoutAlgorithmCustomizationSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeMapLayoutAlgorithmCustomizationSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to change the layout algorithm used by TreeMap
 
 
